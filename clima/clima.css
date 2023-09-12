@@ -1,0 +1,37 @@
+body{
+    background-image: url(img/PREVISAO-DO-TEMPO-CLIMA-AMANHA-1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 160px;
+}
+.caixa{
+    padding: 150px;
+    width: 150px;
+    height: 350px;
+    background-color:rgba(152, 217, 233, 0.26);
+    border-radius: 50px;
+    text-align: center;
+    margin: 0 auto;
+}
+input{
+    width: 145px;
+    height: 20px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(218, 218, 218);
+}
+button{
+    width: auto;
+    height: 25px;
+    border-radius: 5px;
+    background-color: rgba(146, 203, 238, 0.384);
+    color: white;
+    
+}
+strong{
+    color: rgb(218, 218, 218);
+}
+#butao{
+    height: 50px;
+
+}
